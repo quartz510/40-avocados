@@ -2,7 +2,7 @@ body {
   background-color: #FCFCFC;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -85,4 +85,8 @@ img {
   .img-grid {
     grid-template-columns: repeat(auto-fit, minmax(17em, 1fr));
   }
+}
+
+p{
+  font-fanily: sans-serif;
 }
