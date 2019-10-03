@@ -7,7 +7,7 @@ days of old school. And it's only available for $40.00 "exclusively at the Flag 
 as announced on [Hackaday](https://hackaday.com/2018/10/30/apple-introduces-what-weve-all-been-waiting-for/).
 
 ## What can I get for $40.00?
-What other N things could you get, instead of a T-shirt? [Open a pull request](https://www.github.com/vsoch/40-avocados/pulls) to add an image to the list by just adding an entry to the [things.yml](things.yml) file. What does this mean?
+What other things could you get, instead of a T-shirt? [Open a pull request](https://www.github.com/vsoch/40-avocados/pulls) to add an image to the list by just adding an entry to the [things.yml](things.yml) file. What does this mean?
 Here is an example:
 
 ```yaml
